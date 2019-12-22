@@ -18,11 +18,11 @@ Make sure you have a running insatllation of Oracle Java 11.
 
 **RankLib 2.12**
 
-Get a copy of the .jar file from [[Ranklib 2.12](https://sourceforge.net/projects/lemur/files/lemur/RankLib-2.12/RankLib-2.12.jar/download)] and keep it in the directory `./ranklib` at the same level as the papers' repos.
+Get a copy of the .jar file from [[Ranklib 2.12](https://sourceforge.net/projects/lemur/files/lemur/RankLib-2.12/RankLib-2.12.jar/download)] and keep it in the directory `./ranklib/RankLib-2.12.jar` at the same paren level as the papers' repos.
 
 **trec_eval**
 
-Compile the executable of [[trec_eval](https://github.com/usnistgov/trec_eval)] and keep it in the directory `./trec_eval` at the same level as the papers' repos.
+Compile the executable of [[trec_eval](https://github.com/usnistgov/trec_eval)] and keep it in the directory `./trec_eval/trec_eval` at the same parent level as the papers' repos.
 
 **HpBandSter**
 
