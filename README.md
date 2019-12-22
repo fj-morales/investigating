@@ -4,7 +4,7 @@ Accompanying repository for my MSc thesis: "Investigating the case of weak basel
 
 For the code accompanying paper A, "Deep Relevance Ranking Using Enhanced Document-Query Interactions". [[PDF](http://nlp.cs.aueb.gr/pubs/emnlp2018.pdf)]], click [[here](https://github.com/fj-morales/deep-relevance-ranking)]
 
-For the code accompanying paper B, "TVQA: Localized, Compositional Video Question Answering". [[PDF](https://www.aclweb.org/anthology/D18-1167.pdf)], ckicl [[here](https://github.com/fj-morales/TVQA)]
+For the code accompanying paper B, "TVQA: Localized, Compositional Video Question Answering". [[PDF](https://www.aclweb.org/anthology/D18-1167.pdf)], ckick [[here](https://github.com/fj-morales/TVQA)]
 
 ## Prerequisites
 
