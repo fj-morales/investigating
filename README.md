@@ -36,4 +36,4 @@ Install [[Indri 5.14](https://sourceforge.net/p/lemur/wiki/Indri/)] from [[sourc
 
 **Feature extractor**
 
-Ad our [[GenerateExtraFeatures]()] in: `./indri-l2r/L2R-features/GenerateExtraFeatures`
+Ad our [[GenerateExtraFeatures](https://github.com/fj-morales/investigating/blob/master/GenerateExtraFeatures)] in: `./indri-l2r/L2R-features/GenerateExtraFeatures`
